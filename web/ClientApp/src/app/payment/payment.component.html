@@ -1,0 +1,7 @@
+<h1>Make a payment</h1>
+
+<input type="text" [(ngModel)]="amount">
+<button (click)="submit()">Deposit</button>
+<div class="tran-logs">
+    <p *ngFor="let m of messages" [innerHTML]="m">{{m}}</p>
+</div>
