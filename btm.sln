@@ -11,13 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "btm.tests", "tests\btm.test
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "btm.web", "web\btm.web.csproj", "{BEF639C8-6FE6-474F-8DC7-4D2B68D7B2F8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "btm.sender", "testconsole\btm.sender.csproj", "{6E370351-6A8E-4150-AF6E-83BEC48CC72C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "btm.sender", "sender\btm.sender.csproj", "{6E370351-6A8E-4150-AF6E-83BEC48CC72C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "btm.persistence", "testconsole2\btm.persistence.csproj", "{D4B2C44E-65C5-41FC-BC85-57575C8400BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "btm.persistence", "persistor\btm.persistence.csproj", "{D4B2C44E-65C5-41FC-BC85-57575C8400BC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "btm.shared", "Shared\btm.shared.csproj", "{F2338064-9E83-4314-A1A9-AA6BD8342F05}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "persistence.lighthouse", "testlighthouse\persistence.lighthouse.csproj", "{F2D7BF43-E447-4392-AA14-FE59273C588E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "persistence.lighthouse", "persistence.lighthouse\persistence.lighthouse.csproj", "{F2D7BF43-E447-4392-AA14-FE59273C588E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
